@@ -25,7 +25,7 @@ namespace MonoGameTemplate
         }
 
         /// <summary>
-        /// Creates and animation from a spritesheet
+        /// Creates an animation from a spritesheet
         /// </summary>
         /// <param name="name"></param>
         /// <param name="texture"></param>
